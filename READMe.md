@@ -8,3 +8,8 @@
 * https://www.baeldung.com/ 
 * https://start.spring.io/
 * [Git commit message](https://www.conventionalcommits.org/en/v1.0.0/)
+
+
+
+## Week 1 Design and Develop RESTful API with Spring Boot
+* [ออกแบบ flow](https://github.com/BellEraDev/assignment-java-boot-camp.wiki.git)
