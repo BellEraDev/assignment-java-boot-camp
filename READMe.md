@@ -12,4 +12,4 @@
 
 
 ## Week 1 Design and Develop RESTful API with Spring Boot
-* [ออกแบบ Flow](https://github.com/BellEraDev/assignment-java-boot-camp/wiki/Week-1-Design-and-Develop-RESTful-API-with-Spring-Boot)
+* [ออกแบบ Flow](https://github.com/BellEraDev/assignment-java-boot-camp/wiki/Week-1-Design-and-Develop-RESTful-API-with-Spring-Boot#e-commerce-flow)
