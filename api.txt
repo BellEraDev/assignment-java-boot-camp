@@ -1,0 +1,18 @@
+{
+    "id": 01,
+    "name": "POCA SHOE NMD Sneakers Fashion รองเท้า ลำลอง ผ้าใบ",
+    "price": "1900",
+    "salesPrice": "399",
+    "satisfiedScore": "3.5",
+    "quantity": "70",
+    "originalAddress": {
+        "label": "30/167",
+        "postalCode": "12110",
+        "provinceCode": "01",
+        "districtCode": "0116",
+        "subDistrictCode": "011601"
+    },
+    "description": "สวมใส่สบาย",
+    "size": "30",
+    "sizeUnit": "cm"
+}
